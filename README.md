@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jiahuiwang2023/my-first-binder/HEAD)
 
 <!--
 **jiahuiwang2023/jiahuiwang2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jiahuiwang2023/my-first-binder/HEAD)
+
 
